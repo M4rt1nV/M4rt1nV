@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @M4rt1nV
+- 👀 I’m interested in coding in Python and C
+- 🌱 I’m currently learning C, and deeper Python
+- 💞️ I’m looking to collaborate on most anything!
+- 📫 How to reach me 
