@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding in Python and C
 - 🌱 I’m currently learning C, and deeper Python
 - 💞️ I’m looking to collaborate on most anything!
-- 📫 How to reach me 
+- 📫 How to reach me: Discord M4rt1nV [He/Him]#3896
